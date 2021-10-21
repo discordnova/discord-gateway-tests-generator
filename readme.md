@@ -14,14 +14,14 @@ Put your bot credentials in the creds.json file like so
 {
     "token": "<your bot token>"
 }
-
 ```
 
 Please note that the bot needs to have **NO SERVERS** to avoid capturing event data
 during the data capture process.
 
 After installing the dependencies `npm i`, run the index.js file using the node cli.
-All the steps will be 
+All the steps will be printed to the console. This test generation program **DOES NOT** work in
+CI because it requires human intervention.
 
 ## Compatibility
 
@@ -84,19 +84,21 @@ This tool could be used as an event logger. Make sure to use a **bot with NO SER
 discord-tests-generate, generate example json data using the discord
 api designated for the Nova's Gateway tests.
 This file formats all the json file into readeable json.
-
+</sub>
+<sub>
 Copyright (C) 2021  Nova
-
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
-
+</sub>
+<sub>
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
-
+</sub>
+<sub>
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 </sub>
