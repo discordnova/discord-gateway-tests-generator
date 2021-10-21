@@ -1,0 +1,70 @@
+[
+  {
+    "member": {
+      "user": {
+        "username": "Matthieu",
+        "public_flags": 128,
+        "id": "314354049023737857",
+        "discriminator": "8952",
+        "avatar": "038ace57bd095ed3f77761a26eb7275d"
+      },
+      "roles": [
+        "900713518020591626"
+      ],
+      "premium_since": null,
+      "pending": false,
+      "nick": "test user",
+      "mute": false,
+      "joined_at": "2021-10-21T11:54:18.033018+00:00",
+      "is_pending": false,
+      "hoisted_role": null,
+      "deaf": false,
+      "avatar": null
+    },
+    "user_id": "314354049023737857",
+    "suppress": true,
+    "session_id": "b3a70c524df4f4bdf29493052397e42f",
+    "self_video": false,
+    "self_mute": true,
+    "self_deaf": false,
+    "request_to_speak_timestamp": null,
+    "mute": false,
+    "guild_id": "900713513658494996",
+    "deaf": false,
+    "channel_id": "900713839644004373"
+  },
+  {
+    "member": {
+      "user": {
+        "username": "Matthieu",
+        "public_flags": 128,
+        "id": "314354049023737857",
+        "discriminator": "8952",
+        "avatar": "038ace57bd095ed3f77761a26eb7275d"
+      },
+      "roles": [
+        "900713518020591626"
+      ],
+      "premium_since": null,
+      "pending": false,
+      "nick": "test user",
+      "mute": false,
+      "joined_at": "2021-10-21T11:54:18.033018+00:00",
+      "is_pending": false,
+      "hoisted_role": null,
+      "deaf": false,
+      "avatar": null
+    },
+    "user_id": "314354049023737857",
+    "suppress": true,
+    "session_id": "b3a70c524df4f4bdf29493052397e42f",
+    "self_video": false,
+    "self_mute": true,
+    "self_deaf": false,
+    "request_to_speak_timestamp": null,
+    "mute": false,
+    "guild_id": "900713513658494996",
+    "deaf": false,
+    "channel_id": null
+  }
+]

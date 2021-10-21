@@ -1,0 +1,862 @@
+[
+  {
+    "user": {
+      "username": "Matthieu",
+      "public_flags": 128,
+      "id": "314354049023737857",
+      "discriminator": "8952",
+      "avatar": "038ace57bd095ed3f77761a26eb7275d"
+    },
+    "status": "idle",
+    "guild_id": "900713513658494996",
+    "client_status": {
+      "desktop": "idle"
+    },
+    "activities": [
+      {
+        "type": 4,
+        "state": "i use arch btw",
+        "name": "Custom Status",
+        "id": "custom",
+        "created_at": 1634811246687
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634804485299
+        },
+        "party": {
+          "id": "1.7.1"
+        },
+        "name": "GoLand",
+        "id": "883ece665cbf0581",
+        "details": "Idling",
+        "created_at": 1634817244701,
+        "assets": {
+          "large_text": "Idling",
+          "large_image": "627852593791762442"
+        },
+        "application_id": "547786955937677443"
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634731404435
+        },
+        "state": "In no workspace",
+        "name": "Code",
+        "id": "a8ddea31ad77cf70",
+        "details": "Editing Untitled-1 - 5 problems found",
+        "created_at": 1634817244701,
+        "assets": {
+          "small_text": "Idle",
+          "small_image": "736576339892633635",
+          "large_text": "json file, on line 32 of 33",
+          "large_image": "774238860267618315"
+        },
+        "application_id": "732565262704050298"
+      }
+    ],
+    "guild": {
+      "id": "900713513658494996",
+      "name": "test0.10230644016610357",
+      "icon": null,
+      "features": [
+        "NEWS",
+        "COMMUNITY"
+      ],
+      "commands": [],
+      "members": [
+        "900713338982510593",
+        "314354049023737857"
+      ],
+      "channels": [
+        "900713513658494997",
+        "900713513658494998",
+        "900713513658494999",
+        "900713513658495000",
+        "900713837592985630",
+        "900713837592985631",
+        "900713839644004373"
+      ],
+      "bans": [],
+      "roles": [
+        "900713513658494996",
+        "900713518020591626"
+      ],
+      "stageInstances": [
+        "900713841040695349"
+      ],
+      "invites": [],
+      "deleted": false,
+      "splash": null,
+      "banner": null,
+      "description": null,
+      "verificationLevel": "LOW",
+      "vanityURLCode": null,
+      "nsfwLevel": "DEFAULT",
+      "discoverySplash": null,
+      "memberCount": 2,
+      "large": false,
+      "applicationId": "900713338982510593",
+      "afkTimeout": 300,
+      "afkChannelId": null,
+      "systemChannelId": "900713513658494999",
+      "premiumTier": "NONE",
+      "premiumSubscriptionCount": 0,
+      "explicitContentFilter": "ALL_MEMBERS",
+      "mfaLevel": "NONE",
+      "joinedTimestamp": 1634817236113,
+      "defaultMessageNotifications": "ONLY_MENTIONS",
+      "systemChannelFlags": 0,
+      "maximumMembers": 250000,
+      "maximumPresences": 25000,
+      "approximateMemberCount": null,
+      "approximatePresenceCount": null,
+      "vanityURLUses": null,
+      "rulesChannelId": "900713837592985630",
+      "publicUpdatesChannelId": "900713837592985631",
+      "preferredLocale": "en-US",
+      "ownerId": "900713338982510593",
+      "emojis": [],
+      "stickers": [],
+      "shardId": 0,
+      "widgetEnabled": false,
+      "widgetChannelId": null,
+      "createdTimestamp": 1634817236104,
+      "nameAcronym": "t.1",
+      "iconURL": null,
+      "splashURL": null,
+      "discoverySplashURL": null,
+      "bannerURL": null
+    }
+  },
+  {
+    "user": {
+      "id": "314354049023737857"
+    },
+    "status": "idle",
+    "guild_id": "900713513658494996",
+    "client_status": {
+      "desktop": "idle"
+    },
+    "activities": [
+      {
+        "type": 4,
+        "state": "i use arch btw",
+        "name": "Custom Status",
+        "id": "custom",
+        "created_at": 1634811246687
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634804485300
+        },
+        "party": {
+          "id": "1.7.1"
+        },
+        "name": "GoLand",
+        "id": "883ece665cbf0581",
+        "details": "Idling",
+        "created_at": 1634817259704,
+        "assets": {
+          "large_text": "Idling",
+          "large_image": "627852593791762442"
+        },
+        "application_id": "547786955937677443"
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634809538665
+        },
+        "state": "In no workspace",
+        "name": "Code",
+        "id": "a8ddea31ad77cf70",
+        "details": "Editing events.md - 0 problems found",
+        "created_at": 1634817259706,
+        "assets": {
+          "small_text": "Idle",
+          "small_image": "736576339892633635",
+          "large_text": "markdown file, on line 1 of 1",
+          "large_image": "774238858690822164"
+        },
+        "application_id": "732565262704050298"
+      }
+    ],
+    "guild": {
+      "id": "900713513658494996",
+      "name": "test0.10230644016610357",
+      "icon": null,
+      "features": [
+        "NEWS",
+        "COMMUNITY"
+      ],
+      "commands": [],
+      "members": [
+        "900713338982510593",
+        "314354049023737857"
+      ],
+      "channels": [
+        "900713513658494997",
+        "900713513658494998",
+        "900713513658494999",
+        "900713513658495000",
+        "900713837592985630",
+        "900713837592985631",
+        "900713839644004373"
+      ],
+      "bans": [],
+      "roles": [
+        "900713513658494996",
+        "900713518020591626"
+      ],
+      "stageInstances": [
+        "900713841040695349"
+      ],
+      "invites": [],
+      "deleted": false,
+      "splash": null,
+      "banner": null,
+      "description": null,
+      "verificationLevel": "LOW",
+      "vanityURLCode": null,
+      "nsfwLevel": "DEFAULT",
+      "discoverySplash": null,
+      "memberCount": 2,
+      "large": false,
+      "applicationId": "900713338982510593",
+      "afkTimeout": 300,
+      "afkChannelId": null,
+      "systemChannelId": "900713513658494999",
+      "premiumTier": "NONE",
+      "premiumSubscriptionCount": 0,
+      "explicitContentFilter": "ALL_MEMBERS",
+      "mfaLevel": "NONE",
+      "joinedTimestamp": 1634817236113,
+      "defaultMessageNotifications": "ONLY_MENTIONS",
+      "systemChannelFlags": 0,
+      "maximumMembers": 250000,
+      "maximumPresences": 25000,
+      "approximateMemberCount": null,
+      "approximatePresenceCount": null,
+      "vanityURLUses": null,
+      "rulesChannelId": "900713837592985630",
+      "publicUpdatesChannelId": "900713837592985631",
+      "preferredLocale": "en-US",
+      "ownerId": "900713338982510593",
+      "emojis": [],
+      "stickers": [],
+      "shardId": 0,
+      "widgetEnabled": false,
+      "widgetChannelId": null,
+      "createdTimestamp": 1634817236104,
+      "nameAcronym": "t.1",
+      "iconURL": null,
+      "splashURL": null,
+      "discoverySplashURL": null,
+      "bannerURL": null
+    }
+  },
+  {
+    "user": {
+      "id": "314354049023737857"
+    },
+    "status": "idle",
+    "guild_id": "900713513658494996",
+    "client_status": {
+      "desktop": "idle"
+    },
+    "activities": [
+      {
+        "type": 4,
+        "state": "i use arch btw",
+        "name": "Custom Status",
+        "id": "custom",
+        "created_at": 1634811246687
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634804485300
+        },
+        "party": {
+          "id": "1.7.1"
+        },
+        "name": "GoLand",
+        "id": "883ece665cbf0581",
+        "details": "Idling",
+        "created_at": 1634817259704,
+        "assets": {
+          "large_text": "Idling",
+          "large_image": "627852593791762442"
+        },
+        "application_id": "547786955937677443"
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634731404435
+        },
+        "state": "In no workspace",
+        "name": "Code",
+        "id": "a8ddea31ad77cf70",
+        "details": "Editing Untitled-1 - 5 problems found",
+        "created_at": 1634817269710,
+        "assets": {
+          "small_text": "Idle",
+          "small_image": "736576339892633635",
+          "large_text": "json file, on line 32 of 33",
+          "large_image": "774238860267618315"
+        },
+        "application_id": "732565262704050298"
+      }
+    ],
+    "guild": {
+      "id": "900713513658494996",
+      "name": "test0.10230644016610357",
+      "icon": null,
+      "features": [
+        "NEWS",
+        "COMMUNITY"
+      ],
+      "commands": [],
+      "members": [
+        "900713338982510593",
+        "314354049023737857"
+      ],
+      "channels": [
+        "900713513658494997",
+        "900713513658494998",
+        "900713513658494999",
+        "900713513658495000",
+        "900713837592985630",
+        "900713837592985631",
+        "900713839644004373"
+      ],
+      "bans": [],
+      "roles": [
+        "900713513658494996",
+        "900713518020591626"
+      ],
+      "stageInstances": [
+        "900713841040695349"
+      ],
+      "invites": [],
+      "deleted": false,
+      "splash": null,
+      "banner": null,
+      "description": null,
+      "verificationLevel": "LOW",
+      "vanityURLCode": null,
+      "nsfwLevel": "DEFAULT",
+      "discoverySplash": null,
+      "memberCount": 2,
+      "large": false,
+      "applicationId": "900713338982510593",
+      "afkTimeout": 300,
+      "afkChannelId": null,
+      "systemChannelId": "900713513658494999",
+      "premiumTier": "NONE",
+      "premiumSubscriptionCount": 0,
+      "explicitContentFilter": "ALL_MEMBERS",
+      "mfaLevel": "NONE",
+      "joinedTimestamp": 1634817236113,
+      "defaultMessageNotifications": "ONLY_MENTIONS",
+      "systemChannelFlags": 0,
+      "maximumMembers": 250000,
+      "maximumPresences": 25000,
+      "approximateMemberCount": null,
+      "approximatePresenceCount": null,
+      "vanityURLUses": null,
+      "rulesChannelId": "900713837592985630",
+      "publicUpdatesChannelId": "900713837592985631",
+      "preferredLocale": "en-US",
+      "ownerId": "900713338982510593",
+      "emojis": [],
+      "stickers": [],
+      "shardId": 0,
+      "widgetEnabled": false,
+      "widgetChannelId": null,
+      "createdTimestamp": 1634817236104,
+      "nameAcronym": "t.1",
+      "iconURL": null,
+      "splashURL": null,
+      "discoverySplashURL": null,
+      "bannerURL": null
+    }
+  },
+  {
+    "user": {
+      "id": "314354049023737857"
+    },
+    "status": "idle",
+    "guild_id": "900713513658494996",
+    "client_status": {
+      "desktop": "idle"
+    },
+    "activities": [
+      {
+        "type": 4,
+        "state": "i use arch btw",
+        "name": "Custom Status",
+        "id": "custom",
+        "created_at": 1634811246687
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634804485300
+        },
+        "party": {
+          "id": "1.7.1"
+        },
+        "name": "GoLand",
+        "id": "883ece665cbf0581",
+        "details": "Idling",
+        "created_at": 1634817259704,
+        "assets": {
+          "large_text": "Idling",
+          "large_image": "627852593791762442"
+        },
+        "application_id": "547786955937677443"
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634809538665
+        },
+        "state": "In no workspace",
+        "name": "Code",
+        "id": "a8ddea31ad77cf70",
+        "details": "Editing events.md - 0 problems found",
+        "created_at": 1634817284710,
+        "assets": {
+          "small_text": "Idle",
+          "small_image": "736576339892633635",
+          "large_text": "markdown file, on line 1 of 1",
+          "large_image": "774238858690822164"
+        },
+        "application_id": "732565262704050298"
+      }
+    ],
+    "guild": {
+      "id": "900713513658494996",
+      "name": "test0.10230644016610357",
+      "icon": null,
+      "features": [
+        "NEWS",
+        "COMMUNITY"
+      ],
+      "commands": [],
+      "members": [
+        "900713338982510593",
+        "314354049023737857"
+      ],
+      "channels": [
+        "900713513658494997",
+        "900713513658494998",
+        "900713513658494999",
+        "900713513658495000",
+        "900713837592985630",
+        "900713837592985631",
+        "900713839644004373"
+      ],
+      "bans": [],
+      "roles": [
+        "900713513658494996",
+        "900713518020591626"
+      ],
+      "stageInstances": [
+        "900713841040695349"
+      ],
+      "invites": [],
+      "deleted": false,
+      "splash": null,
+      "banner": null,
+      "description": null,
+      "verificationLevel": "LOW",
+      "vanityURLCode": null,
+      "nsfwLevel": "DEFAULT",
+      "discoverySplash": null,
+      "memberCount": 2,
+      "large": false,
+      "applicationId": "900713338982510593",
+      "afkTimeout": 300,
+      "afkChannelId": null,
+      "systemChannelId": "900713513658494999",
+      "premiumTier": "NONE",
+      "premiumSubscriptionCount": 0,
+      "explicitContentFilter": "ALL_MEMBERS",
+      "mfaLevel": "NONE",
+      "joinedTimestamp": 1634817236113,
+      "defaultMessageNotifications": "ONLY_MENTIONS",
+      "systemChannelFlags": 0,
+      "maximumMembers": 250000,
+      "maximumPresences": 25000,
+      "approximateMemberCount": null,
+      "approximatePresenceCount": null,
+      "vanityURLUses": null,
+      "rulesChannelId": "900713837592985630",
+      "publicUpdatesChannelId": "900713837592985631",
+      "preferredLocale": "en-US",
+      "ownerId": "900713338982510593",
+      "emojis": [],
+      "stickers": [],
+      "shardId": 0,
+      "widgetEnabled": false,
+      "widgetChannelId": null,
+      "createdTimestamp": 1634817236104,
+      "nameAcronym": "t.1",
+      "iconURL": null,
+      "splashURL": null,
+      "discoverySplashURL": null,
+      "bannerURL": null
+    }
+  },
+  {
+    "user": {
+      "id": "314354049023737857"
+    },
+    "status": "idle",
+    "guild_id": "900713513658494996",
+    "client_status": {
+      "desktop": "idle"
+    },
+    "activities": [
+      {
+        "type": 4,
+        "state": "i use arch btw",
+        "name": "Custom Status",
+        "id": "custom",
+        "created_at": 1634811246687
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634804485300
+        },
+        "party": {
+          "id": "1.7.1"
+        },
+        "name": "GoLand",
+        "id": "883ece665cbf0581",
+        "details": "Idling",
+        "created_at": 1634817259704,
+        "assets": {
+          "large_text": "Idling",
+          "large_image": "627852593791762442"
+        },
+        "application_id": "547786955937677443"
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634804640171
+        },
+        "state": "In nova",
+        "name": "Code",
+        "id": "a8ddea31ad77cf70",
+        "created_at": 1634817285897,
+        "assets": {
+          "small_text": "Idle",
+          "small_image": "736576339892633635",
+          "large_text": "Visual Studio Code",
+          "large_image": "736271915206967318"
+        },
+        "application_id": "732565262704050298"
+      }
+    ],
+    "guild": {
+      "id": "900713513658494996",
+      "name": "test0.10230644016610357",
+      "icon": null,
+      "features": [
+        "NEWS",
+        "COMMUNITY"
+      ],
+      "commands": [],
+      "members": [
+        "900713338982510593",
+        "314354049023737857"
+      ],
+      "channels": [
+        "900713513658494997",
+        "900713513658494998",
+        "900713513658494999",
+        "900713513658495000",
+        "900713837592985630",
+        "900713837592985631",
+        "900713839644004373"
+      ],
+      "bans": [],
+      "roles": [
+        "900713513658494996",
+        "900713518020591626"
+      ],
+      "stageInstances": [
+        "900713841040695349"
+      ],
+      "invites": [],
+      "deleted": false,
+      "splash": null,
+      "banner": null,
+      "description": null,
+      "verificationLevel": "LOW",
+      "vanityURLCode": null,
+      "nsfwLevel": "DEFAULT",
+      "discoverySplash": null,
+      "memberCount": 2,
+      "large": false,
+      "applicationId": "900713338982510593",
+      "afkTimeout": 300,
+      "afkChannelId": null,
+      "systemChannelId": "900713513658494999",
+      "premiumTier": "NONE",
+      "premiumSubscriptionCount": 0,
+      "explicitContentFilter": "ALL_MEMBERS",
+      "mfaLevel": "NONE",
+      "joinedTimestamp": 1634817236113,
+      "defaultMessageNotifications": "ONLY_MENTIONS",
+      "systemChannelFlags": 0,
+      "maximumMembers": 250000,
+      "maximumPresences": 25000,
+      "approximateMemberCount": null,
+      "approximatePresenceCount": null,
+      "vanityURLUses": null,
+      "rulesChannelId": "900713837592985630",
+      "publicUpdatesChannelId": "900713837592985631",
+      "preferredLocale": "en-US",
+      "ownerId": "900713338982510593",
+      "emojis": [],
+      "stickers": [],
+      "shardId": 0,
+      "widgetEnabled": false,
+      "widgetChannelId": null,
+      "createdTimestamp": 1634817236104,
+      "nameAcronym": "t.1",
+      "iconURL": null,
+      "splashURL": null,
+      "discoverySplashURL": null,
+      "bannerURL": null
+    }
+  },
+  {
+    "user": {
+      "username": "HeroBot",
+      "public_flags": 524288,
+      "id": "491673480006205461",
+      "discriminator": "6603",
+      "bot": true,
+      "avatar": "8c6f06e75615289cdd752e10dd4a5f4d"
+    },
+    "status": "online",
+    "guild_id": "900713513658494996",
+    "client_status": {
+      "web": "online"
+    },
+    "activities": [],
+    "guild": {
+      "id": "900713513658494996",
+      "name": "test0.10230644016610357",
+      "icon": null,
+      "features": [
+        "NEWS",
+        "COMMUNITY"
+      ],
+      "commands": [],
+      "members": [
+        "900713338982510593",
+        "314354049023737857"
+      ],
+      "channels": [
+        "900713513658494997",
+        "900713513658494998",
+        "900713513658494999",
+        "900713513658495000",
+        "900713837592985630",
+        "900713837592985631",
+        "900713839644004373"
+      ],
+      "bans": [],
+      "roles": [
+        "900713513658494996",
+        "900713518020591626"
+      ],
+      "stageInstances": [
+        "900713841040695349"
+      ],
+      "invites": [],
+      "deleted": false,
+      "splash": null,
+      "banner": null,
+      "description": null,
+      "verificationLevel": "LOW",
+      "vanityURLCode": null,
+      "nsfwLevel": "DEFAULT",
+      "discoverySplash": null,
+      "memberCount": 2,
+      "large": false,
+      "applicationId": "900713338982510593",
+      "afkTimeout": 300,
+      "afkChannelId": null,
+      "systemChannelId": "900713513658494999",
+      "premiumTier": "NONE",
+      "premiumSubscriptionCount": 0,
+      "explicitContentFilter": "ALL_MEMBERS",
+      "mfaLevel": "NONE",
+      "joinedTimestamp": 1634817236113,
+      "defaultMessageNotifications": "ONLY_MENTIONS",
+      "systemChannelFlags": 0,
+      "maximumMembers": 250000,
+      "maximumPresences": 25000,
+      "approximateMemberCount": null,
+      "approximatePresenceCount": null,
+      "vanityURLUses": null,
+      "rulesChannelId": "900713837592985630",
+      "publicUpdatesChannelId": "900713837592985631",
+      "preferredLocale": "en-US",
+      "ownerId": "900713338982510593",
+      "emojis": [],
+      "stickers": [],
+      "shardId": 0,
+      "widgetEnabled": false,
+      "widgetChannelId": null,
+      "createdTimestamp": 1634817236104,
+      "nameAcronym": "t.1",
+      "iconURL": null,
+      "splashURL": null,
+      "discoverySplashURL": null,
+      "bannerURL": null
+    }
+  },
+  {
+    "user": {
+      "id": "314354049023737857"
+    },
+    "status": "idle",
+    "guild_id": "900713513658494996",
+    "client_status": {
+      "desktop": "idle"
+    },
+    "activities": [
+      {
+        "type": 4,
+        "state": "i use arch btw",
+        "name": "Custom Status",
+        "id": "custom",
+        "created_at": 1634811246687
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634804485300
+        },
+        "party": {
+          "id": "1.7.1"
+        },
+        "name": "GoLand",
+        "id": "883ece665cbf0581",
+        "details": "Idling",
+        "created_at": 1634817259704,
+        "assets": {
+          "large_text": "Idling",
+          "large_image": "627852593791762442"
+        },
+        "application_id": "547786955937677443"
+      },
+      {
+        "type": 0,
+        "timestamps": {
+          "start": 1634804685368
+        },
+        "state": "In discord-tests-generate",
+        "name": "Code",
+        "id": "a8ddea31ad77cf70",
+        "details": "Editing creds.json - 0 problems found",
+        "created_at": 1634817314697,
+        "assets": {
+          "small_text": "Idle",
+          "small_image": "736576339892633635",
+          "large_text": "json file, on line 2 of 3",
+          "large_image": "774238860267618315"
+        },
+        "application_id": "732565262704050298"
+      }
+    ],
+    "guild": {
+      "id": "900713513658494996",
+      "name": "test0.10230644016610357",
+      "icon": null,
+      "features": [
+        "NEWS",
+        "COMMUNITY"
+      ],
+      "commands": [],
+      "members": [
+        "900713338982510593",
+        "314354049023737857"
+      ],
+      "channels": [
+        "900713513658494997",
+        "900713513658494998",
+        "900713513658494999",
+        "900713513658495000",
+        "900713837592985630",
+        "900713837592985631",
+        "900713839644004373"
+      ],
+      "bans": [],
+      "roles": [
+        "900713513658494996",
+        "900713518020591626"
+      ],
+      "stageInstances": [
+        "900713841040695349"
+      ],
+      "invites": [],
+      "deleted": false,
+      "splash": null,
+      "banner": null,
+      "description": null,
+      "verificationLevel": "LOW",
+      "vanityURLCode": null,
+      "nsfwLevel": "DEFAULT",
+      "discoverySplash": null,
+      "memberCount": 2,
+      "large": false,
+      "applicationId": "900713338982510593",
+      "afkTimeout": 300,
+      "afkChannelId": null,
+      "systemChannelId": "900713513658494999",
+      "premiumTier": "NONE",
+      "premiumSubscriptionCount": 0,
+      "explicitContentFilter": "ALL_MEMBERS",
+      "mfaLevel": "NONE",
+      "joinedTimestamp": 1634817236113,
+      "defaultMessageNotifications": "ONLY_MENTIONS",
+      "systemChannelFlags": 0,
+      "maximumMembers": 250000,
+      "maximumPresences": 25000,
+      "approximateMemberCount": null,
+      "approximatePresenceCount": null,
+      "vanityURLUses": null,
+      "rulesChannelId": "900713837592985630",
+      "publicUpdatesChannelId": "900713837592985631",
+      "preferredLocale": "en-US",
+      "ownerId": "900713338982510593",
+      "emojis": [],
+      "stickers": [],
+      "shardId": 0,
+      "widgetEnabled": false,
+      "widgetChannelId": null,
+      "createdTimestamp": 1634817236104,
+      "nameAcronym": "t.1",
+      "iconURL": null,
+      "splashURL": null,
+      "discoverySplashURL": null,
+      "bannerURL": null
+    }
+  }
+]

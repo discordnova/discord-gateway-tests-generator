@@ -1,0 +1,55 @@
+[
+  {
+    "user": {
+      "username": "Matthieu",
+      "public_flags": 128,
+      "id": "314354049023737857",
+      "discriminator": "8952",
+      "avatar": "038ace57bd095ed3f77761a26eb7275d"
+    },
+    "roles": [],
+    "premium_since": null,
+    "pending": false,
+    "nick": "test user",
+    "joined_at": "2021-10-21T11:54:18.033000+00:00",
+    "is_pending": false,
+    "guild_id": "900713513658494996",
+    "avatar": null
+  },
+  {
+    "user": {
+      "username": "Matthieu",
+      "public_flags": 128,
+      "id": "314354049023737857",
+      "discriminator": "8952",
+      "avatar": "038ace57bd095ed3f77761a26eb7275d"
+    },
+    "roles": [
+      "900713518020591626"
+    ],
+    "premium_since": null,
+    "pending": false,
+    "nick": "test user",
+    "joined_at": "2021-10-21T11:54:18.033000+00:00",
+    "is_pending": false,
+    "guild_id": "900713513658494996",
+    "avatar": null
+  },
+  {
+    "user": {
+      "username": "Matthieu",
+      "public_flags": 128,
+      "id": "314354049023737857",
+      "discriminator": "8952",
+      "avatar": "038ace57bd095ed3f77761a26eb7275d"
+    },
+    "roles": [],
+    "premium_since": null,
+    "pending": false,
+    "nick": "test user",
+    "joined_at": "2021-10-21T11:54:18.033000+00:00",
+    "is_pending": false,
+    "guild_id": "900713513658494996",
+    "avatar": null
+  }
+]

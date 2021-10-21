@@ -1,0 +1,99 @@
+[
+  {
+    "guild_id": "900713513658494996",
+    "code": "MyMzwhrr",
+    "channel_id": "900713521380216843",
+    "channel": {
+      "type": "GUILD_TEXT",
+      "deleted": false,
+      "guild": "900713513658494996",
+      "guildId": "900713513658494996",
+      "parentId": null,
+      "permissionOverwrites": [],
+      "messages": [
+        "900713524664340490",
+        "900713530557337640",
+        "900713611075395644"
+      ],
+      "threads": [
+        "900713611075395644"
+      ],
+      "nsfw": false,
+      "id": "900713521380216843",
+      "name": "test",
+      "rawPosition": 1,
+      "topic": "test",
+      "lastMessageId": "900713530557337640",
+      "rateLimitPerUser": 0,
+      "lastPinTimestamp": 1634817240000,
+      "createdTimestamp": 1634817237945
+    },
+    "guild": {
+      "id": "900713513658494996",
+      "name": "test0.10230644016610357",
+      "icon": null,
+      "features": [],
+      "commands": [],
+      "members": [
+        "900713338982510593",
+        "314354049023737857"
+      ],
+      "channels": [
+        "900713513658494997",
+        "900713513658494998",
+        "900713513658494999",
+        "900713513658495000",
+        "900713521380216843",
+        "900713611075395644"
+      ],
+      "bans": [],
+      "roles": [
+        "900713513658494996",
+        "900713518020591626"
+      ],
+      "stageInstances": [],
+      "invites": [],
+      "deleted": false,
+      "splash": null,
+      "banner": null,
+      "description": null,
+      "verificationLevel": "NONE",
+      "vanityURLCode": null,
+      "nsfwLevel": "DEFAULT",
+      "discoverySplash": null,
+      "memberCount": 2,
+      "large": false,
+      "applicationId": "900713338982510593",
+      "afkTimeout": 300,
+      "afkChannelId": null,
+      "systemChannelId": "900713513658494999",
+      "premiumTier": "NONE",
+      "premiumSubscriptionCount": 0,
+      "explicitContentFilter": "DISABLED",
+      "mfaLevel": "NONE",
+      "joinedTimestamp": 1634817236113,
+      "defaultMessageNotifications": "ALL_MESSAGES",
+      "systemChannelFlags": 0,
+      "maximumMembers": 250000,
+      "maximumPresences": 25000,
+      "approximateMemberCount": null,
+      "approximatePresenceCount": null,
+      "vanityURLUses": null,
+      "rulesChannelId": null,
+      "publicUpdatesChannelId": null,
+      "preferredLocale": "en-US",
+      "ownerId": "900713338982510593",
+      "emojis": [],
+      "stickers": [],
+      "shardId": 0,
+      "widgetEnabled": false,
+      "widgetChannelId": null,
+      "createdTimestamp": 1634817236104,
+      "nameAcronym": "t.1",
+      "iconURL": null,
+      "splashURL": null,
+      "discoverySplashURL": null,
+      "bannerURL": null
+    }
+  }
+]

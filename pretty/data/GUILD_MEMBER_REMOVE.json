@@ -1,0 +1,23 @@
+[
+  {
+    "user": {
+      "username": "HeroBot",
+      "public_flags": 524288,
+      "id": "491673480006205461",
+      "discriminator": "6603",
+      "bot": true,
+      "avatar": "8c6f06e75615289cdd752e10dd4a5f4d"
+    },
+    "guild_id": "900713513658494996"
+  },
+  {
+    "user": {
+      "username": "Matthieu",
+      "public_flags": 128,
+      "id": "314354049023737857",
+      "discriminator": "8952",
+      "avatar": "038ace57bd095ed3f77761a26eb7275d"
+    },
+    "guild_id": "900713513658494996"
+  }
+]

@@ -1,4 +1,4 @@
-# Discord Tests Generate
+# Discord tests generator
 
 Since the Discord's api is pretty vague about his data structures
 Here is a tool that use the discord.js library to record almost all the

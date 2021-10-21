@@ -1,0 +1,22 @@
+[
+  {
+    "user_id": "900713338982510593",
+    "timestamp": 1634817246,
+    "member": {
+      "user": {
+        "username": "discord-tests-generator",
+        "id": "900713338982510593",
+        "discriminator": "2664",
+        "bot": true,
+        "avatar": null
+      },
+      "roles": [],
+      "mute": false,
+      "joined_at": "2021-10-21T11:53:56.113000+00:00",
+      "hoisted_role": null,
+      "deaf": false
+    },
+    "channel_id": "900713521380216843",
+    "guild_id": "900713513658494996"
+  }
+]

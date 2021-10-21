@@ -1,0 +1,19 @@
+[
+  {
+    "id": "900713773353017415",
+    "guild_hashes": {
+      "version": 1,
+      "roles": {
+        "hash": "prnY9UuaACo"
+      },
+      "metadata": {
+        "hash": "vVG5tI20LNU"
+      },
+      "channels": {
+        "hash": "Z1MNVbWmwns"
+      }
+    },
+    "application_id": "491673480006205461",
+    "guild_id": "900713513658494996"
+  }
+]
