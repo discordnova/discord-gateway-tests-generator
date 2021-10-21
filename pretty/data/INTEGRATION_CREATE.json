@@ -1,94 +1,104 @@
 [
   {
-    "user": {
-      "username": "discord-tests-generator",
-      "public_flags": 0,
-      "id": "900713338982510593",
-      "discriminator": "2664",
-      "bot": true,
-      "avatar": null
-    },
-    "type": "discord",
-    "name": "discord-tests-generator",
-    "id": "900713513658495001",
-    "guild_hashes": {
-      "version": 1,
-      "roles": {
-        "hash": "FJ6RS/w6sHo"
-      },
-      "metadata": {
-        "hash": "6TFlMn4Rbxw"
-      },
-      "channels": {
-        "hash": "Z1MNVbWmwns"
-      }
-    },
-    "enabled": true,
-    "application": {
-      "summary": "",
-      "name": "discord-tests-generator",
-      "id": "900713338982510593",
-      "icon": null,
-      "description": "",
-      "bot": {
+    "t": "INTEGRATION_CREATE",
+    "s": 3,
+    "op": 0,
+    "d": {
+      "user": {
         "username": "discord-tests-generator",
         "public_flags": 0,
         "id": "900713338982510593",
         "discriminator": "2664",
         "bot": true,
         "avatar": null
-      }
-    },
-    "account": {
+      },
+      "type": "discord",
       "name": "discord-tests-generator",
-      "id": "900713338982510593"
-    },
-    "guild_id": "900713513658494996"
+      "id": "900722060303663125",
+      "guild_hashes": {
+        "version": 1,
+        "roles": {
+          "hash": "76OW24+JA/8"
+        },
+        "metadata": {
+          "hash": "vrWc5giqkbU"
+        },
+        "channels": {
+          "hash": "Mk1kcwO/XO8"
+        }
+      },
+      "enabled": true,
+      "application": {
+        "summary": "",
+        "name": "discord-tests-generator",
+        "id": "900713338982510593",
+        "icon": null,
+        "description": "",
+        "bot": {
+          "username": "discord-tests-generator",
+          "public_flags": 0,
+          "id": "900713338982510593",
+          "discriminator": "2664",
+          "bot": true,
+          "avatar": null
+        }
+      },
+      "account": {
+        "name": "discord-tests-generator",
+        "id": "900713338982510593"
+      },
+      "guild_id": "900722059808747612"
+    }
   },
   {
-    "user": {
-      "username": "Matthieu",
-      "public_flags": 128,
-      "id": "314354049023737857",
-      "discriminator": "8952",
-      "avatar": "038ace57bd095ed3f77761a26eb7275d"
-    },
-    "type": "discord",
-    "name": "HeroBot",
-    "id": "900713773353017415",
-    "guild_hashes": {
-      "version": 1,
-      "roles": {
-        "hash": "prnY9UuaACo"
+    "t": "INTEGRATION_CREATE",
+    "s": 43,
+    "op": 0,
+    "d": {
+      "user": {
+        "username": "Matthieu",
+        "public_flags": 128,
+        "id": "314354049023737857",
+        "discriminator": "8952",
+        "avatar": "038ace57bd095ed3f77761a26eb7275d"
       },
-      "metadata": {
-        "hash": "vVG5tI20LNU"
-      },
-      "channels": {
-        "hash": "Z1MNVbWmwns"
-      }
-    },
-    "enabled": true,
-    "application": {
-      "summary": "... Qui lis ça ?  ???",
+      "type": "discord",
       "name": "HeroBot",
-      "id": "491673480006205461",
-      "icon": "8c6f06e75615289cdd752e10dd4a5f4d",
-      "description": "... Qui lis ça ?  ???",
-      "cover_image": "30abe7a1feffb0b06a1611a94fbc1248",
-      "bot": {
-        "username": "HeroBot",
-        "public_flags": 524288,
+      "id": "900722299903283260",
+      "guild_hashes": {
+        "version": 1,
+        "roles": {
+          "hash": "MncQIoFSJPw"
+        },
+        "metadata": {
+          "hash": "du9xAi1Ui/M"
+        },
+        "channels": {
+          "hash": "Mk1kcwO/XO8"
+        }
+      },
+      "enabled": true,
+      "application": {
+        "summary": "... Qui lis ça ?  ???",
+        "name": "HeroBot",
         "id": "491673480006205461",
-        "discriminator": "6603",
-        "bot": true,
-        "avatar": "8c6f06e75615289cdd752e10dd4a5f4d"
-      }
-    },
-    "account": {
-      "name": "HeroBot",
-      "id": "491673480006205461"
-    },
-    "guild_id": "900713513658494996"
+        "icon": "8c6f06e75615289cdd752e10dd4a5f4d",
+        "description": "... Qui lis ça ?  ???",
+        "cover_image": "30abe7a1feffb0b06a1611a94fbc1248",
+        "bot": {
+          "username": "HeroBot",
+          "public_flags": 524288,
+          "id": "491673480006205461",
+          "discriminator": "6603",
+          "bot": true,
+          "avatar": "8c6f06e75615289cdd752e10dd4a5f4d"
+        }
+      },
+      "account": {
+        "name": "HeroBot",
+        "id": "491673480006205461"
+      },
+      "guild_id": "900722059808747612"
+    }
   }
 ]

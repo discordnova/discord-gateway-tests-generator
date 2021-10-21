@@ -1,55 +1,65 @@
 [
   {
-    "role": {
-      "unicode_emoji": null,
-      "position": 1,
-      "permissions": "8",
-      "name": "new role",
-      "mentionable": false,
-      "managed": false,
-      "id": "900713518020591626",
-      "icon": null,
-      "hoist": false,
-      "color": 0
-    },
-    "guild_id": "900713513658494996",
-    "guild_hashes": {
-      "version": 1,
-      "roles": {
-        "hash": "prnY9UuaACo"
+    "t": "GUILD_ROLE_UPDATE",
+    "s": 6,
+    "op": 0,
+    "d": {
+      "role": {
+        "unicode_emoji": null,
+        "position": 1,
+        "permissions": "8",
+        "name": "new role",
+        "mentionable": false,
+        "managed": false,
+        "id": "900722064640598026",
+        "icon": null,
+        "hoist": false,
+        "color": 0
       },
-      "metadata": {
-        "hash": "vVG5tI20LNU"
-      },
-      "channels": {
-        "hash": "Z1MNVbWmwns"
+      "guild_id": "900722059808747612",
+      "guild_hashes": {
+        "version": 1,
+        "roles": {
+          "hash": "MncQIoFSJPw"
+        },
+        "metadata": {
+          "hash": "du9xAi1Ui/M"
+        },
+        "channels": {
+          "hash": "Mk1kcwO/XO8"
+        }
       }
     }
   },
   {
-    "role": {
-      "unicode_emoji": null,
-      "position": 0,
-      "permissions": "1071698529857",
-      "name": "@everyone",
-      "mentionable": false,
-      "managed": false,
-      "id": "900713513658494996",
-      "icon": null,
-      "hoist": false,
-      "color": 0
-    },
-    "guild_id": "900713513658494996",
-    "guild_hashes": {
-      "version": 1,
-      "roles": {
-        "hash": "1vqPIVg1YU8"
+    "t": "GUILD_ROLE_UPDATE",
+    "s": 50,
+    "op": 0,
+    "d": {
+      "role": {
+        "unicode_emoji": null,
+        "position": 0,
+        "permissions": "1071698529857",
+        "name": "@everyone",
+        "mentionable": false,
+        "managed": false,
+        "id": "900722059808747612",
+        "icon": null,
+        "hoist": false,
+        "color": 0
       },
-      "metadata": {
-        "hash": "vVG5tI20LNU"
-      },
-      "channels": {
-        "hash": "Z1MNVbWmwns"
+      "guild_id": "900722059808747612",
+      "guild_hashes": {
+        "version": 1,
+        "roles": {
+          "hash": "PMIJF7Mn8E8"
+        },
+        "metadata": {
+          "hash": "du9xAi1Ui/M"
+        },
+        "channels": {
+          "hash": "Mk1kcwO/XO8"
+        }
       }
     }
   }

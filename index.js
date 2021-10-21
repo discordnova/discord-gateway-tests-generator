@@ -57,9 +57,9 @@ const done = false;
 client.on("raw", (data) => {
     if (data.t) {
         if (events.has(data.t)) {
-            events.get(data.t).push(data.d);
+            events.get(data.t).push(data);
         } else {
-            events.set(data.t, [data.d]);
+            events.set(data.t, [data]);
         }
         written.set(data.t, true);
     }
